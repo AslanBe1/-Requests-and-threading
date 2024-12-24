@@ -1,5 +1,4 @@
 import threading
-from telnetlib import theNULL
 
 import requests
 import json
